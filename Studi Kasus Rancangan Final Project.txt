@@ -1,1 +1,13 @@
 Final Project DTS TSA: Network Programmability - Inez Innocentia Rahawarin
+
+Fakultas Teknik Universitas Pembangunan Nasional Veteran Jakarta terdiri dari 3 gedung utama, yaitu:
+1.) Pusat;
+2.) Kelas;
+3.) Kegiatan.
+
+Setiap gedung memiliki Local Area Network (LAN).
+1.) LAN Gedung Pusat terdiri dari 1 Router 4331, terhubung ke 2 Switch 3650. Switch pertama terhubung ke 1 PC Client (sebagai admin), 1 Server, dan 1 Network Controller. Switch kedua terhubung ke 4 PC Client.
+2.) LAN Gedung Kelas tediri dari 1 Router 4331, terhubung ke 1 Switch 3650 yang terhubung ke 2 PC Client.
+3.) LAN Gedung Kegiatan terdiri dari 1 Router 4331, terhubung ke 1 Switch 3650 yang terhubung ke 2 PC Client.
+
+Komunikasi antara ketiga LAN gedung tersebut melalui router dengan interface serial connection.
